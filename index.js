@@ -1,5 +1,5 @@
 function bini (text) {
-  if (typeof text === 'number') {
+  if (typeof text !== 'string') {
     throw new Error('the argument must be of type string')
   }
 
