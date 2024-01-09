@@ -11,14 +11,14 @@ i have been learning about buffers and streams in Nodejs, and part of what I saw
 to start using bini, you can install it from npm:
 
 ```bash
-npm i bini
+npm i @nelson_echeverria/bini
 ```
 
 # usage
 **get started:** create index.js and call bini, like here:
 
 ```js
-const bini = require('bini')
+const bini = require('@nelson_echeverria/bini')
 
 console.log(bini('nelson')) // output: '01101110 01100101 01101100 01110011 01101111 01101110'
 ```
