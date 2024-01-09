@@ -8,8 +8,19 @@
     "test": "ava",
     "coverage": "npx c8 npm run test"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelEcheverria01/bini.git"
+  },
+  "keywords": [
+    "binary",
+    "bini",
+    "string",
+    "convert",
+    "bin",
+    "text"
+  ],
+  "author": "Nelson Echeverria <nelsonecheverria100@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "ava": "6.0.1",
