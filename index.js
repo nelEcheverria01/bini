@@ -1,3 +1,5 @@
+'use strict'
+
 /**
  * function that returns a string passed by parameter in its binary representation
  * @param {string} text text to convert to binary
