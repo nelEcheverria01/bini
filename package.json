@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "this is a simple package that converts a string to its binary equivalent",
   "main": "index.js",
-  "private": false,
   "scripts": {
     "lint": "standard",
     "test": "ava",
